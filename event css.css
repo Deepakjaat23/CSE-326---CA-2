@@ -1,0 +1,44 @@
+*{
+    background: rgb(249, 249, 249);
+}
+nav {
+	float: right;
+	padding:25px 0px;
+}
+nav a {
+	color: black;
+	text-decoration: none;
+	font-size:18px;
+	padding:2px 10px;
+	font-weight:500;
+}
+/*.header{
+        width: 1300px;
+        margin: 0px auto;
+}*/
+
+.heading {
+        font-size: 28px;
+        font-weight: 500;
+        border-bottom: 1px solid black;
+        margin-bottom: 20px;
+        color: black;
+      }
+.jkl {
+        width: 42%;
+        margin-right: 9%;
+        float: right;
+        background-color: #fff;
+        padding: 10px;
+}
+.jkl .abc {
+        border-bottom: 1px solid #46b7c1;
+        padding: 2px;
+        color: #fff;
+        background: #46b7c1;
+        text-align: center;
+}
+.event-date {
+        background: #46b7c1;
+        color: white;
+}

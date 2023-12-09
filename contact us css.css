@@ -1,0 +1,53 @@
+*{
+  background: skyblue;
+}
+
+nav {
+	float: right;
+	padding:25px 0px;
+  
+  
+}
+nav a {
+	color: black;
+	text-decoration: none;
+	font-size:18px;
+	padding:2px 10px;
+	font-weight:500;
+  border-bottom: 1px solid black;
+}
+nav :hover {
+  color: red;
+}
+.heading {
+    font-size: 28px;
+    font-weight: 500;
+    
+    margin-bottom: 20px;
+    color: black;
+  }
+.container {
+  margin-top: 90px;
+}
+.contact-box {
+  background: white;
+  display: flex;
+
+}
+.contact-left {
+  background: white;
+  padding: 40px 60px;
+}
+.contact-left h1{
+  background: white;
+  margin-bottom: 50px;
+  
+}
+.input-group {
+  background: white;
+ 
+}
+.input-group label{
+  background: white;
+ 
+}
